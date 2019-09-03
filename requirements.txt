@@ -3,3 +3,5 @@ ipywidgets
 nbinteract
 scipy
 matplotlib
+seaborn
+sklearn
