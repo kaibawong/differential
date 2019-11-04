@@ -98,8 +98,6 @@ dependencies:
   - zlib=1.2.11=h516909a_1006
   - pip:
     - appmode==0.7.0
-    - bokeh==1.4.0
-    - holoviews==1.12.6
     - bqplot==0.11.9
     - cycler==0.10.0
     - docopt==0.6.2
