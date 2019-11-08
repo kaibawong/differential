@@ -19,9 +19,9 @@ ORL;light;Sweet;Linear scaled MSE;0.157680497
 ORL;light;Sweet;Non.linear scaled MSE;1
 ORL;light;Sweet;RF scaled MSE;0.154136304
 ORL;light;Sweet;MD scaled MSE;0.410883541
-Ural NWE;Medium;Medium;Linear scaled MSE;0.273650841
-Ural NWE;Medium;Medium;Non.linear scaled MSE;0.235171283
-Ural NWE;Medium;Medium;RF scaled MSE;0.080761891
+Ural NWE;Medium;Medium;Linear scaled MSE;0.24604
+Ural NWE;Medium;Medium;Non.linear scaled MSE;0.35089
+Ural NWE;Medium;Medium;RF scaled MSE;0.08358
 Ural NWE;Medium;Medium;MD scaled MSE;1
 Arab light;Medium;Medium;Linear scaled MSE;0.556847686
 Arab light;Medium;Medium;Non.linear scaled MSE;1
