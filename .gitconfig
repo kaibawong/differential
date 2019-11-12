@@ -1,3 +1,6 @@
 [user]
 	email = kaibaka2000@hotmail.com
 	name = kaibawong
+[submodule "path_to_submodule"] 
+  path = differential/.gitconfig
+  url = git://.local/share/Trash/files/differential
