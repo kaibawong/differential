@@ -3,4 +3,4 @@
 	name = kaibawong
 [submodule "path_to_submodule"] 
  	path = .local/share/Trash/files/differential
- 	url = https://github.com/kaibawong/differential
+ 	url = https://github.com/kaibawong/differential.git
