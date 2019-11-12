@@ -1,9 +1,3 @@
 [user]
 	email = kaibaka2000@hotmail.com
 	name = kaibawong
-[submodule "path_to_submodule"] 
- 	path = .local/share/Trash/files/differential
- 	url = https://github.com/kaibawong/differential.git
-git submodule sync
-git submodule init
-git submodule update
