@@ -2,5 +2,5 @@
 	email = kaibaka2000@hotmail.com
 	name = kaibawong
 [submodule "path_to_submodule"] 
- 	path = git://kaibawong/differential
- 	url = git://.local/share/Trash/files/differential
+ 	path = .local/share/Trash/files/differential
+ 	url = git://https://github.com/kaibawong/differential
